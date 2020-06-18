@@ -20,9 +20,10 @@
     padding: 0;
 }
 [class="title"]{
-    max-width:250px;
+    max-width:350px;
     text-align: center;
     margin: 0 auto;
+  
 }
 [class="box"]{
     margin-bottom: 35px;
@@ -32,7 +33,7 @@
    margin-bottom: 0;
 }
 [class="stars"]{
-    max-width: 100px;
+    max-width: 200px;
     margin: 0 auto;
 }
 
@@ -104,7 +105,9 @@ ul li{
 }
 .stars ul li{
     display: inline;
-   
+   margin-right: 15px;
+    margin-left: 15px;
+    
     
 }
 .stars{

@@ -9,6 +9,15 @@
     font-family:Aileron-Regular;
     src:url(../fonts/paragraph/Aileron-Regular.otf);
 }
+
+@font-face{
+    font-family:Aileron-Regular;
+    src:url(../fonts/paragraph/Aileron-Regular.otf);
+}
+
+
+
+
 *{
     margin: 0;
     padding: 0;

@@ -1,0 +1,1 @@
+# gallerija_sa_spec_effect
